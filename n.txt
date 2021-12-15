@@ -1,0 +1,9 @@
+vb
+cd
+vb
+vb
+vb
+rm
+rn
+gg
+
